@@ -1,13 +1,18 @@
-# karmic player
-by disruptive karma
+# blood
+from the resulting karma of disruptive karma
 
-the karmic player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
+the player is an exceptionally responsive and compatible html5 youtube native embeded player implimentation.
 
-what are you waiting for? give it a spin at full volume and enjoy! found at https://karmic-player.netlify.com
+what are you waiting for? also give it a spin at full volume and enjoy! 
 
-the karmic player uses a simple flexi-flux approach which is found at https://github.com/bright-spark/flexi-flux-webapp and has been tested on all webkit supported browsers, android phones and ios devices without a flaw.
+stable version alwaysfound at https://karmic-player.netlify.com
 
-coded by martin myburgh [ http://about.me/martinmyburgh ] on friday 7 april 2017
+the karmic player uses a simple flexi-flux approach which is found at https://github.com/bright-spark/flexi-flux-webapp and has been tested on all webkit supported browsers, android phones and ios and performs perfectly on all devices without fail.
+
+coded by martin myburgh [ https://about.me/martinmyburgh ] on friday 7 april 2017
+
+
+
 
 
 
